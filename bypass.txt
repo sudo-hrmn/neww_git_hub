@@ -1,0 +1,108 @@
+df
+ 1847  df -h
+ 1848  clear
+ 1849  du .
+ 1850  clear
+ 1851  ps
+ 1852  clear
+ 1853  top
+ 1854  clear
+ 1855  fuser
+ 1856  clear
+ 1857  free
+ 1858  free -h
+ 1859  vmstat
+ 1860  vmstat -h
+ 1861  clear
+ 1862  uname
+ 1863  uptime
+ 1864  clear
+ 1865  who
+ 1866  whoami
+ 1867  id 
+ 1868  sudo apt-get update
+ 1869  clear
+ 1870  sudo apt update
+ 1871  clear
+ 1872  ls -l
+ 1873  chmod 777 koi
+ 1874  ls -l
+ 1875  umask
+ 1876  ls
+ 1877  zip -r loi.zip loi
+ 1878  zip -r loi.zip loi/
+ 1879  ls
+ 1880  zip -r hrmn.zip loi/
+ 1881  ls
+ 1882  clear
+ 1883  ls
+ 1884  rm -r hrmn
+ 1885  ls
+ 1886  unzip hrmn.zip
+ 1887  ls
+ 1888  unzip hrmn.zip
+ 1889  clear
+ 1890  unzip hrmn.zip
+ 1891  ls
+ 1892  cd loi
+ 1893  ls
+ 1894  mfdir unzip
+ 1895  mkdir unzip
+ 1896  ls
+ 1897  clear
+ 1898  ls
+ 1899  cd ..
+ 1900  ls
+ 1901  cp hrmn.zip loi/unzip/
+ 1902  ls
+ 1903  cd loi
+ 1904  ls
+ 1905  cd unzip
+ 1906  ls
+ 1907  unzip hrmn.zip
+ 1908  ls
+ 1909  clear
+ 1910  cd ..
+ 1911  clear
+ 1912  ping vegamovies3.best
+ 1913  netstat
+ 1914  clear
+ 1915  ifconfig
+ 1916  tracerout vegamovies3.best
+ 1917  traceroute vegamovies3.best
+ 1918  tracepath vegamovies3.best
+ 1919  clear
+ 1920  mtr vegamovies3.best
+ 1921  nslookuo vegamovies3.best
+ 1922  nslookup  vegamovies3.best
+ 1923  iwconfig
+ 1924  dig vegamovies3.best
+ 1925  whois vegamovies3.best
+ 1926  arp
+ 1927  clear
+ 1928  ifplugstatus
+ 1929  clear
+ 1930  curl -X GET https://dummy-json.mock.beeceptor.com/posts
+ 1931  curl -X GET https://dummy-json.mock.beeceptor.com/posts | jq
+ 1932  clear
+ 1933  watch mm vegamovies3.best
+ 1934  watch mm
+ 1935  watch mtr 
+ 1936  watch mtr vegamovies3.best
+ 1937  watch -n 5 top
+ 1938  nmap
+ 1939  clear
+ 1940  nmap -v vegamovies3.best
+ 1941  clear
+ 1942  mkdir log
+ 1943  ls
+ 1944  cd log
+ 1945  vim app.log
+ 1946  clear
+ 1947  ls
+ 1948  head -n 2 app.log
+ 1949  head -n 5  app.log
+ 1950  head -n 15  app.log
+ 1951  clear
+ 1952  awk '{print $1}' app.log
+ 1953  awk '{print $1,$4}' app.log
