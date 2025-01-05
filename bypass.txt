@@ -106,3 +106,6 @@ df
  1951  clear
  1952  awk '{print $1}' app.log
  1953  awk '{print $1,$4}' app.log
+
+ harman 
+ singh
