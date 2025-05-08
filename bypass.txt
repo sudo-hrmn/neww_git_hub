@@ -17,7 +17,7 @@ df
  1862  uname
  1863  uptime
  1864  clear
- 1865  who
+ 1865  whoq
  1866  whoami
  1867  id 
  1868  sudo apt-get update
